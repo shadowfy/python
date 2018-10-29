@@ -1,5 +1,5 @@
 # python
-patch5
+
 multiplication
 x=int(input("Enter a number :"))
 y=int(input("Enter second number :"))
@@ -11,4 +11,4 @@ a=int(input("Enter a number :"))
 b=int(input("Enter second number :"))
 d=a+b
 print("Addition is :",d)
- master
+
